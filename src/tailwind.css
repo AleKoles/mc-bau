@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  /* MC Brand colours */
+  --color-mc-blue1:  #009EE3;
+  --color-mc-blue2:  #005D9A;
+  --color-mc-blue3:  #002D5A;
+  --color-mc-orange: #EE7100;
+  --color-mc-gray1:  #F7F7F7;
+  --color-mc-gray2:  #E3E3E3;
+  --color-mc-gray3:  #9C9C9C;
+  --color-mc-gray4:  #4C4C4C;
+
+  /* Fonts */
+  --font-roboto: 'Roboto', ui-sans-serif, sans-serif;
+}
